@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BXSgL2FAxpMw12tNtGvkwe4MaWOii1k8fLiKDpcSdzh+tFOywsV6Fci5UCHuSDq4ZzS6B6eUO4WiSzy/HiPR2g==",
+  "success": true,
+  "projectFilePath": "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Application/BomPraCredito.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/sillos/.nuget/packages/identitymodel/7.0.0/identitymodel.7.0.0.nupkg.sha512",
+    "/home/sillos/.nuget/packages/microsoft.bcl.timeprovider/8.0.1/microsoft.bcl.timeprovider.8.0.1.nupkg.sha512",
+    "/home/sillos/.nuget/packages/microsoft.identitymodel.abstractions/8.2.0/microsoft.identitymodel.abstractions.8.2.0.nupkg.sha512",
+    "/home/sillos/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.2.0/microsoft.identitymodel.jsonwebtokens.8.2.0.nupkg.sha512",
+    "/home/sillos/.nuget/packages/microsoft.identitymodel.logging/8.2.0/microsoft.identitymodel.logging.8.2.0.nupkg.sha512",
+    "/home/sillos/.nuget/packages/microsoft.identitymodel.tokens/8.2.0/microsoft.identitymodel.tokens.8.2.0.nupkg.sha512",
+    "/home/sillos/.nuget/packages/system.identitymodel.tokens.jwt/8.2.0/system.identitymodel.tokens.jwt.8.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

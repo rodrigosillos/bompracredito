@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BomPraCredito.Domain\BomPraCredito.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="IdentityModel" Version="7.0.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="8.2.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.2.0" />
+  </ItemGroup>
+</Project>

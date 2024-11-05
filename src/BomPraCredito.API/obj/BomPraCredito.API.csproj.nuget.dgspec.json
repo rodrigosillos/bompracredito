@@ -1,0 +1,264 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.API/BomPraCredito.API.csproj": {}
+  },
+  "projects": {
+    "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.API/BomPraCredito.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.API/BomPraCredito.API.csproj",
+        "projectName": "BomPraCredito.API",
+        "projectPath": "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.API/BomPraCredito.API.csproj",
+        "packagesPath": "/home/sillos/.nuget/packages/",
+        "outputPath": "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sillos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Application/BomPraCredito.Application.csproj": {
+                "projectPath": "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Application/BomPraCredito.Application.csproj"
+              },
+              "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Infrastructure/BomPraCredito.Infrastructure.csproj": {
+                "projectPath": "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Infrastructure/BomPraCredito.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Application/BomPraCredito.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Application/BomPraCredito.Application.csproj",
+        "projectName": "BomPraCredito.Application",
+        "projectPath": "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Application/BomPraCredito.Application.csproj",
+        "packagesPath": "/home/sillos/.nuget/packages/",
+        "outputPath": "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sillos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Domain/BomPraCredito.Domain.csproj": {
+                "projectPath": "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Domain/BomPraCredito.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Domain/BomPraCredito.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Domain/BomPraCredito.Domain.csproj",
+        "projectName": "BomPraCredito.Domain",
+        "projectPath": "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Domain/BomPraCredito.Domain.csproj",
+        "packagesPath": "/home/sillos/.nuget/packages/",
+        "outputPath": "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sillos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Infrastructure/BomPraCredito.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Infrastructure/BomPraCredito.Infrastructure.csproj",
+        "projectName": "BomPraCredito.Infrastructure",
+        "projectPath": "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Infrastructure/BomPraCredito.Infrastructure.csproj",
+        "packagesPath": "/home/sillos/.nuget/packages/",
+        "outputPath": "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sillos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Domain/BomPraCredito.Domain.csproj": {
+                "projectPath": "/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Domain/BomPraCredito.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

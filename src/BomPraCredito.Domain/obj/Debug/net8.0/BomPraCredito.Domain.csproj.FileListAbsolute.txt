@@ -1,0 +1,11 @@
+/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Domain/bin/Debug/net8.0/BomPraCredito.Domain.deps.json
+/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Domain/bin/Debug/net8.0/BomPraCredito.Domain.dll
+/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Domain/bin/Debug/net8.0/BomPraCredito.Domain.pdb
+/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Domain/obj/Debug/net8.0/BomPraCredito.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Domain/obj/Debug/net8.0/BomPraCredito.Domain.AssemblyInfoInputs.cache
+/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Domain/obj/Debug/net8.0/BomPraCredito.Domain.AssemblyInfo.cs
+/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Domain/obj/Debug/net8.0/BomPraCredito.Domain.csproj.CoreCompileInputs.cache
+/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Domain/obj/Debug/net8.0/BomPraCredito.Domain.dll
+/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Domain/obj/Debug/net8.0/refint/BomPraCredito.Domain.dll
+/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Domain/obj/Debug/net8.0/BomPraCredito.Domain.pdb
+/home/sillos/lab/MTZBomPraCredito/src/BomPraCredito.Domain/obj/Debug/net8.0/ref/BomPraCredito.Domain.dll
