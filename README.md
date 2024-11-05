@@ -1,4 +1,4 @@
-# BomPraCredito
+# Bom Pra Crédito
 
 Projeto de microserviços para o sistema de crédito **BomPraCredito**, criado para gerenciar operações financeiras de forma eficiente e escalável.
 
